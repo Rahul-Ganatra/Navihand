@@ -13,6 +13,14 @@ NaviHand is a Python-based application that allows you to control your computer'
 - **Real-time Hand Tracking**: Smooth and responsive cursor movement
 - **Customizable Settings**: Adjustable parameters for sensitivity and gesture detection
 
+## Tech Stack
+
+- **Python**: Core programming language
+- **OpenCV**: For webcam access and image processing
+- **MediaPipe**: For real-time hand detection and landmark tracking
+- **PyAutoGUI**: For controlling mouse movements and clicks
+- **NumPy**: For numerical operations
+
 ## Prerequisites
 
 - Python 3.7 or higher
